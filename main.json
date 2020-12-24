@@ -269,11 +269,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"main.json#portal-start"
-                }, 
-                {
                  "name":"exitUrl",
                  "type":"string",
                  "value":"main.json#portal-start"
@@ -291,11 +286,6 @@
          "name":"portal-exit1",
          "opacity":1,
          "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"main.json#portal-start1"
-                }, 
                 {
                  "name":"exitUrl",
                  "type":"string",
