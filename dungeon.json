@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#dungeon-entrance"
+                 "value":"main.json#dungeon-entrance"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +72,7 @@
         {
          "columns":1,
          "firstgid":1,
-         "image":"..\/homemade-tiles\/dim.png",
+         "image":"homemade-tiles\/dim.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -85,7 +85,7 @@
         {
          "columns":8,
          "firstgid":2,
-         "image":"..\/BaseChip_pipo.png",
+         "image":"BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,

@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#start"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,7 +84,7 @@
         {
          "columns":7,
          "firstgid":1,
-         "image":"..\/homemade-tiles\/ballpit.png",
+         "image":"homemade-tiles\/ballpit.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
@@ -97,7 +97,7 @@
         {
          "columns":7,
          "firstgid":92,
-         "image":"..\/homemade-tiles\/ballpit-toplayer.png",
+         "image":"homemade-tiles\/ballpit-toplayer.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,

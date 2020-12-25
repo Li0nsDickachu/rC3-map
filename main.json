@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"other-maps\/dungeon.json"
+                 "value":"dungeon.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"other-maps\/ballpit.json#start"
+                 "value":"ballpit.json"
                 }],
          "type":"tilelayer",
          "visible":true,
