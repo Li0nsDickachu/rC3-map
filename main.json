@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ballpit.json#start"
+                 "value":"other-maps\/ballpit.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
