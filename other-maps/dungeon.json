@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":20,
  "infinite":false,
  "layers":[
@@ -12,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#dungeon-entrance"
+                 "value":"..\/main.json#dungeon-entrance"
                 }],
          "type":"tilelayer",
          "visible":true,
