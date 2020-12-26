@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dump.plomlompom.com\/dump\/plomrogue.html"
+                 "value":"https:\/\/plomlompom.com\/rc3_rogue_chat.html"
                 }],
          "type":"tilelayer",
          "visible":true,
