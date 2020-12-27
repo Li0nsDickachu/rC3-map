@@ -313,7 +313,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_cuddlebutt}"
                 }],
          "type":"tilelayer",
          "visible":true,
