@@ -289,7 +289,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"{<lobby>\/generic-assemblies.json#start_cuddlebutt}"
                 }],
          "type":"tilelayer",
          "visible":true,
