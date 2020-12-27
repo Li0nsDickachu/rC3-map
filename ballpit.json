@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#ballpit-exit"
                 }],
          "type":"tilelayer",
          "visible":true,
