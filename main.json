@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"dungeon.json"
+                 "value":"Darkroom.json"
                 }],
          "type":"tilelayer",
          "visible":true,

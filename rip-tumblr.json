@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"dungeon.json#theaterexit"
+                 "value":"Darkroom.json#theaterexit"
                 }],
          "type":"tilelayer",
          "visible":true,
