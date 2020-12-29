@@ -33,6 +33,12 @@
          "id":2,
          "name":"floor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Cuddlebutt"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":7,
@@ -74,7 +80,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":6,
+ "nextlayerid":7,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
