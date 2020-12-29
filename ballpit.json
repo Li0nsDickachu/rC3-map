@@ -58,6 +58,18 @@
          "y":0
         }, 
         {
+         "data":[0, 0, 0, 0, 0, 0, 0, 184, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":4,
+         "id":7,
+         "name":"phone",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":7,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":4,
          "name":"floorLayer",
@@ -80,7 +92,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":7,
+ "nextlayerid":8,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -110,6 +122,19 @@
          "name":"ballpit-toplayer",
          "spacing":0,
          "tilecount":91,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":183,
+         "image":"homemade-tiles\/phones.png",
+         "imageheight":32,
+         "imagewidth":64,
+         "margin":0,
+         "name":"phones",
+         "spacing":0,
+         "tilecount":2,
          "tileheight":32,
          "tilewidth":32
         }],
