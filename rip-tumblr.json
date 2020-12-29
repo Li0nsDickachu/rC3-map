@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"dungeon.json"
+                 "value":"dungeon.json#theaterexit"
                 }],
          "type":"tilelayer",
          "visible":true,
