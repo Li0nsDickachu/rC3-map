@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#plomrogue-exit"
                 }],
          "type":"tilelayer",
          "visible":true,
