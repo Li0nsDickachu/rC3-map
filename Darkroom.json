@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"rip-tumblr.json"
+                 "value":"CW.json"
                 }],
          "type":"tilelayer",
          "visible":true,
