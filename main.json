@@ -345,12 +345,6 @@
          "id":46,
          "name":"Komona",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"{<komona>\/main.json}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
