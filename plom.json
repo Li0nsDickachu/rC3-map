@@ -44,6 +44,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/plomlompom.com\/rc3_rogue_chat.html"
+                }, 
+                {
+                 "name":"playSound",
+                 "type":"string",
+                 "value":"jTrOl.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
