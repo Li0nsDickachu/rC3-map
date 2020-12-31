@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared Darkroom"
+                 "value":"sharedDarkroom"
                 }],
          "type":"tilelayer",
          "visible":true,
