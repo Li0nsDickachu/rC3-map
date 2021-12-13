@@ -173,6 +173,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"9qbAt7f6dFmwCa0jcUfPru0u3pGYoNCMEcpc1ah6DrIZFMuKDO"
+                }, 
+                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
