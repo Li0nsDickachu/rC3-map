@@ -62,6 +62,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Cuddlebutt"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
