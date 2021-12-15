@@ -1876,6 +1876,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"gaming",
+         "properties":[
+                {
+                 "name":"tilesetCopyrgiht",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
@@ -1928,6 +1934,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"customcomputer",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -2379,6 +2391,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"neonarow",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -2459,6 +2477,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"mycat",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
