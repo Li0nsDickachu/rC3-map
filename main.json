@@ -691,7 +691,7 @@
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -2298,6 +2298,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"phones",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -2454,31 +2460,39 @@
          "margin":0,
          "name":"mycat",
          "spacing":0,
-         "terrains":[
-                {
-                 "name":"New Terrain",
-                 "tile":0
-                }],
          "tilecount":4,
          "tileheight":32,
-         "tiles":[
+         "tilewidth":32,
+         "wangsets":[
                 {
-                 "id":0,
-                 "terrain":[-1, -1, -1, 0]
-                }, 
-                {
-                 "id":1,
-                 "terrain":[-1, -1, 0, -1]
-                }, 
-                {
-                 "id":2,
-                 "terrain":[-1, 0, -1, -1]
-                }, 
-                {
-                 "id":3,
-                 "terrain":[0, -1, -1, -1]
-                }],
-         "tilewidth":32
+                 "colors":[
+                        {
+                         "color":"#ff0000",
+                         "name":"New Terrain",
+                         "probability":1,
+                         "tile":0
+                        }],
+                 "name":"Terrains",
+                 "tile":-1,
+                 "type":"corner",
+                 "wangtiles":[
+                        {
+                         "tileid":0,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":1,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":2,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":3,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }]
+                }]
         }, 
         {
          "columns":3,
@@ -2495,6 +2509,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":46
 }
