@@ -511,6 +511,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"map utilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"this tileset licenced under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
