@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":20,
  "infinite":false,
  "layers":[
@@ -15,12 +8,6 @@
          "id":3,
          "name":"start",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"9QeHWJRpvkUZEPjioMiJwwrcjGxPdFBXvJZdOvk4qeC3Yeauui"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":5,
@@ -36,6 +23,12 @@
                  "height":329.75,
                  "id":1,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"REglcr03qpX7ViFwxyvA31aTqAC4OmxAoAFpJefDUFMVtPyvVz"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -44,12 +37,6 @@
                  "y":149.25
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"REglcr03qpX7ViFwxyvA31aTqAC4OmxAoAFpJefDUFMVtPyvVz"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -142,7 +129,7 @@
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -274,6 +261,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":5
 }
