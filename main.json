@@ -618,9 +618,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/horny_jail\/lounge.json"
+                 "value":"world:\/\/lounge\/floppy-landfill.json#start_horny_jail"
                 }],
          "type":"tilelayer",
          "visible":true,
