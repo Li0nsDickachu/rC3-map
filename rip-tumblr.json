@@ -81,6 +81,12 @@
  "nextlayerid":7,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"audioCopyright",
+         "type":"string",
+         "value":"https:\/\/creativecommons.org\/licenses\/by-nc-nd\/3.0\/"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
