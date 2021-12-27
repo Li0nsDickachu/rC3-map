@@ -1828,6 +1828,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -2052,6 +2058,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"this tileset licenced under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -2373,6 +2385,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"blackbox",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -2460,6 +2478,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"Blinking_worldexit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 https:\/\/tiles.rc3.world\/LICENSE edited by Li0n"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -2554,6 +2578,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Jitsi",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -2663,6 +2693,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"silence",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,

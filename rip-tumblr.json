@@ -125,6 +125,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"Blinking_worldexit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 https:\/\/tiles.rc3.world\/LICENSE edited by Li0n"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
