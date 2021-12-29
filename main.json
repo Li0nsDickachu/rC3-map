@@ -1615,6 +1615,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"this tileset licensed under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/ (placeholder)"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -2565,6 +2571,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"komona",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"1komona (placeholder)"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,

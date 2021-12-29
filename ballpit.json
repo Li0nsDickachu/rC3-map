@@ -123,6 +123,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"ballpit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"this tileset licensed under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0 (placeholder)"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -136,6 +142,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"ballpit-toplayer",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"this tileset licensed under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0 (placeholder)"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -149,6 +161,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"phones",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -162,6 +180,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Jitsi",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,

@@ -540,6 +540,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"terrain atlas",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/opengameart.org\/content\/lpc-farming-tilesets-magic-animations-and-ui-elements https:\/\/opengameart.org\/content\/lpc-tile-atlas"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
