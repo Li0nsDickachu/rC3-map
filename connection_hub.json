@@ -544,7 +544,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"https:\/\/opengameart.org\/content\/lpc-farming-tilesets-magic-animations-and-ui-elements https:\/\/opengameart.org\/content\/lpc-tile-atlas"
+                 "value":"https:\/\/creativecommons.org\/licenses\/by-sa\/3.0 https:\/\/opengameart.org\/content\/lpc-farming-tilesets-magic-animations-and-ui-elements https:\/\/opengameart.org\/content\/lpc-tile-atlas"
                 }],
          "spacing":0,
          "tilecount":1024,
@@ -635,6 +635,12 @@
          "imagewidth":2048,
          "margin":0,
          "name":"Lions_custom_tileset_mix",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n, Mullana, etc. this tileset licenced under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":4096,
          "tileheight":32,

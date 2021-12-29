@@ -2068,7 +2068,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"this tileset licenced under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+                 "value":"this tileset licensed under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
                 }],
          "spacing":0,
          "tilecount":256,
@@ -2724,6 +2724,12 @@
          "imagewidth":2048,
          "margin":0,
          "name":"Lions_custom_tileset_mix",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n, Mullana, etc. this tileset licenced under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+                }],
          "spacing":0,
          "tilecount":4096,
          "tileheight":32,
