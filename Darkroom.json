@@ -279,7 +279,7 @@
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147483667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147483675, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1073741835, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147483658, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":20,
          "id":14,
-         "name":"horny jail award",
+         "name":"horny jail award 2",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -458,6 +458,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"dim",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -471,6 +477,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"Mattress",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"1:Li0n 2:License- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions. https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -557,6 +569,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"dim2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -570,6 +588,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"blackbox",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -748,6 +772,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"this tileset licensed under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -802,6 +832,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -834,6 +870,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"neonarow",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -847,6 +889,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Jitsi",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -879,6 +927,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"silence",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Li0n"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
