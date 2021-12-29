@@ -495,6 +495,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"audioCopyright",
+         "type":"string",
+         "value":"\"Transient\" by Liborio Conti (Free No Copyright Royalty Free Music) https:\/\/www.youtube.com\/LiborioConti   You can download my music here: https:\/\/no-copyright-music.com"
+        }, 
+        {
          "name":"mapCopyright",
          "type":"string",
          "value":"Li0n"
