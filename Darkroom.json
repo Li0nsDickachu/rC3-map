@@ -626,6 +626,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Esses tiles n\u00e3o me pertencem. S\u00e3o os tiles originalmente criados pelo First Seed Material para o Rpg Maker 2003. Se utilizar esses tiles, por favor, d\u00ea os cr\u00e9ditos para o FSM e para meu DeviantArt. https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -797,6 +803,12 @@
          "imagewidth":240,
          "margin":0,
          "name":"pr0ntheater",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"SIL OPEN FONT LICENSE Version 1.1"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
