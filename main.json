@@ -618,7 +618,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"world:\/\/lobby\/floppy-landfill.json#start_horny_jail"
                 }],
          "type":"tilelayer",
          "visible":true,
