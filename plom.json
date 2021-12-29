@@ -37,6 +37,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/plomlompom.com\/rc3_rogue_chat.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -106,6 +111,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"tile_questionmark",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"tileset by plomlompom. this tileset licenced under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -119,6 +130,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"tile_dot",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"tileset by plomlompom. this tileset licenced under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -137,6 +154,11 @@
                  "name":"collides",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"tileset by plomlompom. this tileset licenced under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
                 }],
          "spacing":0,
          "tilecount":1,
@@ -161,6 +183,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"tile_arrowright",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"tileset by plomlompom. this tileset licenced under cc0 https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -174,6 +202,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"Blinking_worldexit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 https:\/\/tiles.rc3.world\/LICENSE edited by Li0n"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
