@@ -29,6 +29,12 @@
                  "height":43,
                  "id":6,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"PHClnAMtrQudbMXrT3QZOkPLCryXxjKUGiNiCuO3guUYK2Ir9A"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -37,12 +43,6 @@
                  "y":44.25
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"PHClnAMtrQudbMXrT3QZOkPLCryXxjKUGiNiCuO3guUYK2Ir9A"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -281,12 +281,6 @@
          "id":14,
          "name":"horny jail award",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"MIhfAFFc8NAahxl5WcjAIkKWBbFsen4VWTbgkyfRRk7KY359DY"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
