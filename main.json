@@ -824,6 +824,11 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"Li0n"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/li0nsdickachu.github.io\/rC3-map"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
