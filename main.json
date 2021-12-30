@@ -826,9 +826,19 @@
          "value":"Li0n"
         }, 
         {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"welcome to the official rc3 horny jail"
+        }, 
+        {
          "name":"mapLink",
          "type":"string",
          "value":"https:\/\/li0nsdickachu.github.io\/rC3-map"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"horny jail"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
